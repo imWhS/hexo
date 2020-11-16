@@ -158,7 +158,7 @@ comment:
     shortname: imwhs
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
-donates:
+# donates:
     # # "Afdian.net" donate button configurations
     # -
     #     type: afdian
