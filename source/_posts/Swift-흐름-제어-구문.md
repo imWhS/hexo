@@ -1,8 +1,8 @@
 ---
 title: Swift 흐름 제어 구문
 date: 2020-11-17 08:36:37
-categories: [프로그래밍 언어, Swift]
-tags: [Swift, 프로그래밍 언어]
+categories: [프로그래밍 언어, Swift, 기본 문법 정리]
+tags: [Swift]
 toc: true
 widgets:
   - type: toc
@@ -37,7 +37,7 @@ String 문자열 타입의 데이터를 순회 대상으로 사용할 경우 Str
 
 루프 상수가 굳이 필요하지 않다면 생략의 의미로 `_`로 대체할 수도 있다.
 
-## While
+## while
 
 ```swift
 while 조건문 {
