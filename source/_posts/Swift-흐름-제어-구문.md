@@ -6,7 +6,7 @@ tags: [Swift, 프로그래밍 언어]
 toc: true
 widgets:
   - type: toc
-    position: right
+    position: left
 ---
 단순 구문: 변수 및 상수 등의 선언문, 연산자를 이용한 처리문, 함수 및 구조체 정의문 등
 
