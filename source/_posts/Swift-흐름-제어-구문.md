@@ -139,4 +139,4 @@ switch couple {
 
 ---
 **Reference**
-[꼼꼼한 재은 씨의 스위프트(Swift): 문법편](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAH)
+* [꼼꼼한 재은 씨의 스위프트(Swift): 문법편](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAH)
